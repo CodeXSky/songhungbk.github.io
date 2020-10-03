@@ -1,0 +1,54 @@
+title: Welcome to Hung's Blog
+description: The Blog will share my perspectives about technology in the world
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author
+author-name:    Le Song Hung
+author-image:   1.jpg
+author-job:     Web Developer
+author-email:   songhungbk@gmail.com # Add your email for contant form.
+author-twitter: HungLeSong # Add your twitter account
+about-author:   Blockchain developer having 1 years experience with extensive experience in technical design and
+                analysis. Web developer with 2+ years experience developing Cryptocurrency exchange for Japanese customer by Ruby on Rails. Build core implement function of Bitcoin, Ethereum, Ripple, v...v by Javascript, Ruby. 
+
+# Social settings
+social-twitter:   HungLeSong1
+social-facebook:
+social-github:    songhungbk
+social-pinterest: songhungbk
+social-instagram: songhung93
+social-youtube:
+social-vk:   
+social-linkedin: hưng-lê-song-158978a0
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1
+
+# Comment Section (Disqus)
+disqus-identifier: songhung # Add your shortname for Disqus Comment. For example mr-brown
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-paginate
+
+paginate: 7
+paginate_path: "/page/:num/"
+
+include:
+  - _pages
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
