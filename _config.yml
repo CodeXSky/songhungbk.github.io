@@ -1,6 +1,6 @@
 title: Welcome to Hung's Blog
 description: The Blog will share my perspectives about technology in the world
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "songhung.tk" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
