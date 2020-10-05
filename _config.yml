@@ -1,7 +1,7 @@
 title: Welcome to Hung's Blog
 description: The Blog will share my perspectives about technology in the world
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "songhung.tk" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
 author-name:    Le Song Hung
@@ -29,7 +29,7 @@ mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.
 google-analytics: # Add your identifier. For example UA-99631805-1
 
 # Comment Section (Disqus)
-disqus-identifier: songhung # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: songhng # Add your shortname for Disqus Comment. For example mr-brown
 
 # Build settings
 markdown: kramdown
