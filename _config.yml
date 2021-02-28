@@ -10,17 +10,18 @@ author-job:     Web Developer
 author-email:   songhungbk@gmail.com # Add your email for contant form.
 author-twitter: HungLeSong # Add your twitter account
 about-author:   Blockchain developer having 1 years experience with extensive experience in technical design and
-                analysis. Web developer with 2+ years experience developing Cryptocurrency exchange for Japanese customer by Ruby on Rails. Build core implement function of Bitcoin, Ethereum, Ripple, v...v by Javascript, Ruby. 
+                analysis. Web developer with 2+ years experience developing Cryptocurrency exchange for Japanese 
+                customer by Ruby on Rails. Build core implement function of Bitcoin, Ethereum, Ripple, v...v by Javascript, Ruby. 
 
 # Social settings
-social-twitter:   HungLeSong1
+social-twitter:   HungLeSong
 social-facebook:
-social-github:    songhungbk
+social-github:    CodeXSky
 social-pinterest: songhungbk
 social-instagram: songhung93
 social-youtube:
-social-vk:   
-social-linkedin: hưng-lê-song-158978a0
+social-vk:
+social-linkedin: songhung
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
@@ -29,7 +30,7 @@ mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.
 google-analytics: # Add your identifier. For example UA-99631805-1
 
 # Comment Section (Disqus)
-disqus-identifier: songhng # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: songhungbk # Add your shortname for Disqus Comment. For example mr-brown
 
 # Build settings
 markdown: kramdown
